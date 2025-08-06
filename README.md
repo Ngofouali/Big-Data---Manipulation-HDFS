@@ -16,7 +16,7 @@
 <p><h3>Dans notre terminal, nous lançons la commande: <strong>docker-compose up -d</strong></h3></p>
 <img src="captures/lancement-cluster.png">
 <br/>
-<img src=""captures/created.png">
+<img src="captures/created.png">
 <h2>Vérification du bon fonctionnement du cluster via la commande: docler-compose ps</h2>
 <br/>
 <img src="captures/docker-compose-ps.png">
