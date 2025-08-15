@@ -17,7 +17,7 @@
 <img src="captures/lancement-cluster.png">
 <br/>
 <img src="captures/created.png">
-<h2>Vérification du bon fonctionnement du cluster via la commande: docler-compose ps</h2>
+<h2>Vérification du bon fonctionnement du cluster via la commande: docker-compose ps</h2>
 <br/>
 <img src="captures/docker-compose-ps.png">
 <br/>
