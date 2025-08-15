@@ -22,3 +22,34 @@
 <img src="captures/docker-compose-ps.png">
 <br/>
 <img src="captures/conteneurs.png">
+<br/>
+<ol>
+<h2><li>Création dans la racine du HDFS l’arborescence principale</li></h2>
+<img src="captures/hdf-dfs-exec.png">
+<br/>
+<img src="captures/visualisation-racine.png">
+<br/>
+<h2><li>Création dans le répertoire Cours de CPP les fichiers CoursCPP1, CoursCPP2 et
+CoursCPP3. Puis ajout du contenu dans les fichiers crées.</li></h2>
+<ul>
+<li>Créons d'abord le sous-dossier CPP à la racine de BDCC</li>
+<br/>
+<img src="captures/BDCC-CPP.png">
+<img src="captures/visual-CPP.png">
+<br/>
+<li>Créons ensuite les sous-dossiers "Cours" et "Tps" à la racine de CPP</li>
+<br/>
+<img src="captures/CPP-Cours-TPs.png">
+<br/>
+<li>Enfin créons les fichiers "CoursCPP1", "CoursCPP2" et "CoursCPP3" dans le répertoire "Cours" de "CPP"</li>
+<br/>
+<img src="captures/creation-fichiers.png">
+<br/>
+<li>Ajoutons du contenu dans les fichiers "CoursCPP1", "CoursCPP2" et "CoursCPP3" créés</li>
+<br/>
+<img src="captures/Ajout-contenu.png">
+</ul>
+<br/>
+<h2><li>Affichage du contenu des fichiers CoursCPP1, CoursCPP2 et CoursCPP3.</li></h2>
+<img src="captures/Affichage-contenu.png">
+</ol>
