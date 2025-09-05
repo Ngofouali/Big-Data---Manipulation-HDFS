@@ -44,7 +44,7 @@ CoursCPP3. Puis ajout du contenu dans les fichiers crées.</li></h2>
 <br/>
 <li>Enfin créons les fichiers "CoursCPP1", "CoursCPP2" et "CoursCPP3" dans le répertoire "Cours" de "CPP"</li>
 <br/>
-<img src="captures/creation-fichiers.png">
+<img src="captures/fichiers.png">
 <br/>
 <li>Ajoutons du contenu dans les fichiers "CoursCPP1", "CoursCPP2" et "CoursCPP3" créés</li>
 <br/>
