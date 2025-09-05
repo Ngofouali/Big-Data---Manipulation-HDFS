@@ -64,7 +64,8 @@ CoursCPP3. Puis ajout du contenu dans les fichiers crées.</li></h2>
 <br/>
 <li>Renommage de CoursCPP et CoursCPP2 en CoursJAVA1 et CoursJAVA2</li>
 <img src="captures/RenommageCoursCPP.png">
+<br/>
+<img src="captures/resultRename.png">
 </ul>
-
 </li>
 </ol>
