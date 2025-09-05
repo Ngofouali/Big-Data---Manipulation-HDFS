@@ -24,7 +24,7 @@
 <img src="captures/conteneurs.png">
 <br/>
 <ol>
-<h2><li>Création dans la racine du HDFS l’arborescence principale</li></h2>
+<li><h2><li>Création dans la racine du HDFS l’arborescence principale</li></h2>
 <img src="captures/hdf-dfs-exec.png">
 <br/>
 <img src="captures/visualisation-racine.png">
@@ -53,4 +53,18 @@ CoursCPP3. Puis ajout du contenu dans les fichiers crées.</li></h2>
 <br/>
 <h2><li>Affichage du contenu des fichiers CoursCPP1, CoursCPP2 et CoursCPP3.</li></h2>
 <img src="captures/Affichage-contenu.png">
+<br/>
+<h2><li>Copie des fichiers CoursCPP1, CoursCPP2, CoursCPP3 dans le répertoire Cours de JAVA</li></h2>
+<img src="captures/copieFichiersDansJAVA.png">
+<br/>
+<h2><li>Suppression du fichier CoursCPP3 du répertoire Cours de JAVA et Renommage de CoursCPP et CoursCPP2 en CoursJAVA1 et CoursJAVA2</li></h2>
+<ul>
+<li>Suppression du fichier CoursCPP3 du répertoire Cours de JAVA</li>
+<img src="captures/suppressionCoursCPPJAVA.png">
+<br/>
+<li>Renommage de CoursCPP et CoursCPP2 en CoursJAVA1 et CoursJAVA2</li>
+<img src="captures/RenommageCoursCPP.png">
+</ul>
+
+</li>
 </ol>
