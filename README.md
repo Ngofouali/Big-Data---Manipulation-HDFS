@@ -36,7 +36,7 @@ CoursCPP3. Puis ajout du contenu dans les fichiers crées.</li></h2>
 <br/>
 <img src="captures/BDCC-CPP.png">
 <br/>
-<img src="captures/visual-CPP.png">
+<img src="captures/Visual-CPP.png">
 <br/>
 <li>Créons ensuite les sous-dossiers "Cours" et "Tps" à la racine de CPP</li>
 <br/>
