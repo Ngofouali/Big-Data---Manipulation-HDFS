@@ -67,5 +67,13 @@ CoursCPP3. Puis ajout du contenu dans les fichiers crées.</li></h2>
 <br/>
 <img src="captures/resultRename.png">
 </ul>
+<br/>
+<h2><li>Création dans le répertoire des fichiers locaux : TP1CPP, TP2CPP, TP1JAVA, TP2JAVA, TP3JAVA</li></h2>
+<img src="captures/fichierslocaux.png">
+<br/>
+<img src="captures/localfiles.png">
+<br/>
+<h2><li>Copie des fichiers TP1CPP, TP2CPP du système de fichier local vers le répertoire TPs de JAVA</li></h2>
+<img src="captures/copieCPPTPs.png">
 </li>
 </ol>
